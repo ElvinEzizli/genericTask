@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\obj\Debug\net8.0\GENERIC TASK FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\obj\Debug\net8.0\GENERIC TASK FINAL.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\obj\Debug\net8.0\GENERIC TASK FINAL.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\obj\Debug\net8.0\GENERIC TASK FINAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\bin\Debug\net8.0\GENERIC TASK FINAL.exe
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\bin\Debug\net8.0\GENERIC TASK FINAL.deps.json
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\bin\Debug\net8.0\GENERIC TASK FINAL.runtimeconfig.json
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\bin\Debug\net8.0\GENERIC TASK FINAL.dll
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\bin\Debug\net8.0\GENERIC TASK FINAL.pdb
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\obj\Debug\net8.0\GENERIC TASK FINAL.dll
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\obj\Debug\net8.0\refint\GENERIC TASK FINAL.dll
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\obj\Debug\net8.0\GENERIC TASK FINAL.pdb
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\obj\Debug\net8.0\GENERIC TASK FINAL.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\GENERIC TASK FINAL\GENERIC TASK FINAL\obj\Debug\net8.0\ref\GENERIC TASK FINAL.dll
